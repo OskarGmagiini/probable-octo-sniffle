@@ -36,7 +36,7 @@ button:hover{
 .burger-nav{
     position: sticky;
     top: 0;
-    background-image: url("../menu_7588931.png");
+    background-image: url("menu_7588931.png");
     background-size: cover;
     background-position: center;
     width: 30px;
@@ -134,7 +134,7 @@ font-weight: 300;
 #TopPhoto{
     height: 274px;
     width: 100%;
-    background-image: url("../481897614_657755430105311_1551829371739882294_n.jpg");
+    background-image: url("481897614_657755430105311_1551829371739882294_n.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 526px 274px;
@@ -251,7 +251,7 @@ background-color: white;
 
 }
 #TopPhotoSection{
-    background: url("../banner.png");
+    background: url("banner.png");
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;

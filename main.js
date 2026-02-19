@@ -23,12 +23,12 @@ products.forEach(product => {
     })
 
 
+    
+    product.addEventListener("mouseleave", () => {
+      product.classList.remove("active");
+    });
+    
   });
-
-  product.addEventListener("mouseleave", () => {
-    product.classList.remove("active");
-  });
-
 
 
 
